@@ -1,0 +1,214 @@
+body {
+    font-family: garamond;
+    top: 0px;
+    left: 0px;
+    padding: 0px;
+    margin: 0px;
+    height: 1024px;
+    width: 100%;
+    /* position: fixed; */
+    /* top: 0; */
+}
+
+header {
+    /* background-color: #faab62; */
+    /* background-color: #f6861f; */
+    width: 100%;
+    /* height: 18.854%; */
+    /* height: 11.23%; */
+    /* position: fixed;
+    top: 0; */
+    background-color: white;
+}
+
+
+#bar {
+    background-color: #3d3e40;
+    width: 100%;
+    /* height: 70%; */
+    /* width: 1280px; */
+    /* height: 80px; */
+    padding: 0px;
+    margin: 0px;
+}
+
+#menu {
+    text-align: center;
+    list-style: none;
+    /* height: 35px; */
+    width: 100%;
+    position: relative;
+    bottom: 4px;
+    /* background-color: #f6861f; */
+    /* border-top: #f6861f;
+    border-top-width: px;
+    border-style: solid;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px; */
+}
+
+#menu ul {
+    text-align: center;
+    /* height: 35px; */
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    /* height: 30%; */
+    display: inline;
+    /* background-color: #f6861f; */
+}
+
+#menu li {
+    display: inline;
+    list-style: none;
+    height: 100%;
+}
+
+#menu a {
+    display: inline;
+    width: 33.333%;
+    float: left;
+    font-size: 24px;
+    text-align: center;
+    margin: 0 auto;
+    height: 100%;
+    /* line-height: 35px; */
+    text-decoration: none;
+    color: black;
+    background-color: #f6861f;
+}
+
+#menu a:hover {
+    background-color: #ac5a27;
+    color: white;
+}
+
+#main {
+    height: 90%;
+    width: 90%;
+    display: block;
+    margin: auto;
+}
+
+h2 {
+    color: white;
+    margin: auto;
+    margin-top: 1.5%;
+    font-size: 21px;
+    font-family: garamond;
+    font-weight: normal;
+    text-align: center;
+}
+
+
+
+.one {
+    /* height: 23%; */
+    width: 27%;
+    background-color: #3d3e40;
+    display: block;
+    float: left;
+    margin: 1% 0% 2% 2%;
+    /* margin-bottom: 2%;
+    margin-top: 1%;
+    margin-left: 2%;
+    margin-right: 0%; */
+    /* padding-top: 1.25%; */
+    padding-bottom: 1.25%;
+    padding-left: 0.3%;
+    padding-right: 0.3%;
+    font-size: 0px;
+}
+
+
+.one:hover {
+    background-color: #ac5a27;
+}
+
+.two:hover {
+    background-color: #ac5a27;
+}
+
+#three:hover {
+    background-color: #ac5a27;
+}
+
+#four:hover {
+    background-color: #ac5a27;
+}
+
+.white {
+    /* height: 87%; */
+    width: 93%;
+    background-color: white;
+    display: block;
+    margin: auto;
+    /* margin-top: 5.5%; */
+    position: relative;
+    top: 5%;
+    margin-top: 1.5%;
+}
+
+.oneimg {
+    width: 90%;
+    display: block;
+    margin: auto;
+    padding: 2%;
+}
+
+.two {
+    width: 36%;
+    background-color: #3d3e40;
+    display: inline;
+    float: right;
+    /* margin-right: 3%;
+    margin-left: 1%; */
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-right: 2.5%;
+}
+
+.twoimg {
+    display: block;
+    width: 93%;
+    margin: auto;
+    padding-top: 1.5%;
+    padding-bottom: 3%;
+}
+
+#three {
+    background-color: #3d3e40;
+    display: block;
+    width: 35%;
+    float: left;
+    margin-right: 10%;
+    margin-left: 12%;
+}
+
+#poster {
+    width: 92%;
+    display: block;
+    margin: auto;
+    /* padding-top: 4%; */
+    padding-bottom: 4%;
+    margin-top: 1.5%;
+}
+
+#four {
+    width: 36%;
+    background-color: #3d3e40;
+    display: inline;
+    float: right;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-right: 2.5%;
+    /* padding-top: 1.25%; */
+    padding-bottom: 1.25%;
+}
+
+#farm {
+    width: 96%;
+    display: block;
+    margin: auto;
+}

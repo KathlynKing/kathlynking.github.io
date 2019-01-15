@@ -1,0 +1,131 @@
+body {
+    font-family: garamond;
+    top: 0px;
+    left: 0px;
+    padding: 0px;
+    margin: 0px;
+    height: 1024px;
+    width: 100%;
+}
+
+header {
+    width: 100%;
+    background-color: white;
+}
+
+
+#bar {
+    background-color: #3d3e40;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+#menu {
+    text-align: center;
+    list-style: none;
+    width: 100%;
+    position: relative;
+    bottom: 4px;
+}
+
+#menu ul {
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    display: inline;
+}
+
+#menu li {
+    display: inline;
+    list-style: none;
+    height: 100%;
+}
+
+#menu a {
+    display: inline;
+    width: 33.333%;
+    float: left;
+    font-size: 24px;
+    text-align: center;
+    margin: 0 auto;
+    height: 100%;
+    text-decoration: none;
+    color: black;
+    background-color: #f6861f;
+}
+
+#menu a:hover {
+    background-color: #ac5a27;
+    color: white;
+}
+
+h1 {
+    width: 100%;
+    display: block;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    text-align: center;
+    font-weight: normal;
+    font-size: 36px;
+}
+
+#wrapper {
+    width: 70%;
+    display: block;
+    margin: auto;
+}
+
+.one {
+    width: 30%;
+    display: inline-block;
+    margin-right: 2.5%;
+}
+
+#two {
+    width: 28.5%;
+    background-color: #3d3e40;
+    display: inline-block;
+    margin-left: 2.5%;
+}
+
+#mead {
+    width: 90%;
+    display: block;
+    margin: auto;
+    margin-bottom: 10%;
+}
+
+#ale {
+    width: 90%;
+    display: block;
+    margin: auto;
+    margin-top: 10%;
+}
+
+#logo {
+    width: 90%;
+    margin: 15% 5% 25%;
+    display: block;
+}
+
+#fury {
+    width: 90%;
+    display: block;
+    margin: auto;
+    margin-bottom: 65%;
+}
+
+#honeylabel {
+    width: 70%;
+    display: block;
+    margin: auto;
+    margin-top: 10%;
+}
+
+#honey {
+    width: 70%;
+    display: block;
+    margin: 10% auto;
+}
