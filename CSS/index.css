@@ -6,18 +6,10 @@ body {
     margin: 0px;
     height: 1024px;
     width: 100%;
-    /* position: fixed; */
-    /* top: 0; */
 }
 
 header {
-    /* background-color: #faab62; */
-    /* background-color: #f6861f; */
     width: 100%;
-    /* height: 18.854%; */
-    /* height: 11.23%; */
-    /* position: fixed;
-    top: 0; */
     background-color: white;
 }
 
@@ -25,9 +17,6 @@ header {
 #bar {
     background-color: #3d3e40;
     width: 100%;
-    /* height: 70%; */
-    /* width: 1280px; */
-    /* height: 80px; */
     padding: 0px;
     margin: 0px;
 }
@@ -35,28 +24,17 @@ header {
 #menu {
     text-align: center;
     list-style: none;
-    /* height: 35px; */
     width: 100%;
     position: relative;
     bottom: 4px;
-    /* background-color: #f6861f; */
-    /* border-top: #f6861f;
-    border-top-width: px;
-    border-style: solid;
-    border-left-width: 0px;
-    border-right-width: 0px;
-    border-bottom-width: 0px; */
 }
 
 #menu ul {
     text-align: center;
-    /* height: 35px; */
     margin: 0px;
     padding: 0px;
     width: 100%;
-    /* height: 30%; */
     display: inline;
-    /* background-color: #f6861f; */
 }
 
 #menu li {
@@ -73,7 +51,6 @@ header {
     text-align: center;
     margin: 0 auto;
     height: 100%;
-    /* line-height: 35px; */
     text-decoration: none;
     color: black;
     background-color: #f6861f;
@@ -84,17 +61,19 @@ header {
     color: white;
 }
 
+
 #main {
-    height: 90%;
+    height: auto;
     width: 90%;
     display: block;
     margin: auto;
 }
 
+
 h2 {
-    color: white;
+    /* color: white; */
     margin: auto;
-    margin-top: 1.5%;
+    margin-top: 5.5px;
     font-size: 21px;
     font-family: garamond;
     font-weight: normal;
@@ -102,113 +81,187 @@ h2 {
 }
 
 
-
-.one {
-    /* height: 23%; */
-    width: 27%;
+#awards {
+    width: 30%;
+    height: 38.25%;
     background-color: #3d3e40;
-    display: block;
+    display: inline-block;
     float: left;
-    margin: 1% 0% 2% 2%;
-    /* margin-bottom: 2%;
-    margin-top: 1%;
-    margin-left: 2%;
-    margin-right: 0%; */
-    /* padding-top: 1.25%; */
-    padding-bottom: 1.25%;
-    padding-left: 0.3%;
-    padding-right: 0.3%;
+    margin: 2% 0% 2% 0%;
     font-size: 0px;
+    color: white;
 }
 
-
-.one:hover {
-    background-color: #ac5a27;
+#awards:hover {
+    background-color: #f6861f;
+    color: black;
 }
 
-.two:hover {
-    background-color: #ac5a27;
-}
-
-#three:hover {
-    background-color: #ac5a27;
-}
-
-#four:hover {
-    background-color: #ac5a27;
-}
-
-.white {
-    /* height: 87%; */
-    width: 93%;
-    background-color: white;
+#award {
+    width: 94%;
     display: block;
     margin: auto;
-    /* margin-top: 5.5%; */
-    position: relative;
-    top: 5%;
-    margin-top: 1.5%;
+    margin-top: 1%;
+    margin-bottom: 3%;
 }
 
-.oneimg {
-    width: 90%;
+#killtree {
+    width: 30%;
+    height: 38.25%;
+    background-color: #3d3e40;
+    display: inline-block;
+    float: left;
+    margin: 2% 0% 2% 2%;
+    font-size: 0px;
+    color: white;
+}
+
+#killtree:hover {
+    background-color: #f6861f;
+    color: black;
+}
+
+#trees {
+    width: 94%;
     display: block;
     margin: auto;
-    padding: 2%;
+    margin-top: 1%;
+    margin-bottom: 3%;
 }
 
-.two {
+#skiresort {
     width: 36%;
     background-color: #3d3e40;
-    display: inline;
+    display: inline-block;
     float: right;
     /* margin-right: 3%;
     margin-left: 1%; */
-    margin-top: 1%;
+    margin-top: 2%;
     margin-bottom: 1%;
-    margin-right: 2.5%;
+    margin-left: 2%;
+    color: white;
 }
 
-.twoimg {
+#skiresort:hover {
+    background-color: #f6861f;
+    color: black;
+}
+
+#ski {
     display: block;
-    width: 93%;
+    width: 94%;
     margin: auto;
     padding-top: 1.5%;
     padding-bottom: 3%;
 }
 
-#three {
-    background-color: #3d3e40;
-    display: block;
-    width: 35%;
-    float: left;
-    margin-right: 10%;
-    margin-left: 12%;
-}
-
-#poster {
-    width: 92%;
-    display: block;
-    margin: auto;
-    /* padding-top: 4%; */
-    padding-bottom: 4%;
-    margin-top: 1.5%;
-}
-
-#four {
+#logos {
     width: 36%;
     background-color: #3d3e40;
-    display: inline;
+    display: inline-block;
     float: right;
+    /* margin-right: 3%;
+    margin-left: 1%; */
     margin-top: 1%;
     margin-bottom: 1%;
-    margin-right: 2.5%;
-    /* padding-top: 1.25%; */
-    padding-bottom: 1.25%;
+    margin-left: 2%;
+    color: white;
 }
 
-#farm {
-    width: 96%;
+#logos:hover {
+    background-color: #f6861f;
+    color: black;
+}
+
+#white {
+    /* height: 87%; */
+    width: 94%;
+    background-color: white;
     display: block;
     margin: auto;
+    /* margin-top: 5.5%; */
+    /* position: relative;
+    top: 5%; */
+    margin-top: 1.5%;
+    margin-bottom: 3%;
+}
+
+#ecorights {
+    width: 48%;
+    display: inline-block;
+    padding: 2% 0% 1% 2%;
+}
+
+#agency {
+    width: 48%;
+    display: inline-block;
+    padding: 2% 2% 1% 0%;
+    float: right;
+}
+
+#phonebook {
+    width: 62%; 
+    height: 38.25%;
+    background-color: #3d3e40;
+    display: inline-block;
+    float: left;
+    margin: 0% 0% 0% 0%;
+    font-size: 0px;
+    color: white;
+}
+
+#phonebook:hover {
+    background-color: #f6861f;
+    color: black;
+}
+
+#blossom {
+    width: 46.80%;
+    display: inline-block;
+    margin-top: 0.6%;
+    margin-bottom: 1.4%;
+}
+
+#eventcenter {
+    width: 23.05%;
+    display: inline-block;
+    margin-right: 1.75%;
+    margin-left: 1.75%;
+    margin-top: 0.6%;
+    margin-bottom: 1.4%;
+}
+
+#asphalt {
+    width: 23.05%;
+    display: inline-block;
+    margin-right: 1.75%;
+    margin-left: 1.75%;
+    margin-top: 0.6%;
+    margin-bottom: 1.4%;
+    float: right;
+}
+
+#cd {
+    width: 36%;
+    background-color: #3d3e40;
+    display: inline-block;
+    /* margin-right: 3%;
+    margin-left: 1%; */
+    margin-left: 13%;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    color: white;
+}
+
+#cd:hover {
+    background-color: #f6861f;
+    color: black;
+}
+
+#cdcover {
+    display: block;
+    width: 94%;
+    margin: auto;
+    padding-top: 1.5%;
+    padding-bottom: 3%;
 }

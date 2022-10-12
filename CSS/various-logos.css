@@ -72,14 +72,16 @@ h1 {
 }
 
 #wrapper {
-    width: 93%;
+    width: 94%;
     margin: auto;
     display: block;
     margin-top: 2.75%;
+    margin-left: 3%;
+    align-content: center;
 }
 
 #ecorights {
-    width: 24.5%;
+    width: 24%;
     display: inline-block;
     margin: auto;
     margin-bottom: 2.5%;
@@ -89,21 +91,21 @@ h1 {
     width: 19%;
     display: inline-block;
     margin: auto;
-    margin-left: 1.5%;
+    margin-left: 1.7%;
 }
 
-#rosewood {
-    width: 20%;
+#agency {
+    width: 24%;
     display: inline-block;
     margin: auto;
-    margin-left: 1.75%;
+    margin-left: 1.5%;
     margin-bottom: 1.5%;
 }
 
 #hugcat {
-    width: 30%;
+    width: 26%;
     display: inline-block;
     margin: auto;
-    margin-left: 1.75%;
+    margin-left: 1.5%; 
     margin-bottom: 3%;
 }
