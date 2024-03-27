@@ -129,7 +129,7 @@ h2 {
     margin-bottom: 3%;
 }
 
-#skiresort {
+#bcballers {
     width: 36%;
     background-color: #3d3e40;
     display: inline-block;
@@ -142,20 +142,32 @@ h2 {
     color: white;
 }
 
-#skiresort:hover {
+#bcballers:hover {
     background-color: #f6861f;
     color: black;
 }
 
-#ski {
-    display: block;
-    width: 94%;
+#bcballersAmockup {
+    display: inline-block;
+    width: 45%;
     margin: auto;
     padding-top: 1.5%;
-    padding-bottom: 3%;
+    padding-bottom: 2%;
+    padding-right: 1%;
+    padding-left: 3.5%;
 }
 
-#logos {
+#bcballersBmockup {
+    display: inline-block;
+    width: 45%;
+    margin: auto;
+    padding-top: 1.5%;
+    padding-bottom: 2%;
+    padding-right: 3.5%;
+    padding-left: 1%;
+}
+
+#southschool {
     width: 36%;
     background-color: #3d3e40;
     display: inline-block;
@@ -168,35 +180,29 @@ h2 {
     color: white;
 }
 
-#logos:hover {
+#southschool:hover {
     background-color: #f6861f;
     color: black;
 }
 
-#white {
-    /* height: 87%; */
-    width: 94%;
-    background-color: white;
-    display: block;
+#southmockupf {
+    display: inline-block;
+    width: 45%;
     margin: auto;
-    /* margin-top: 5.5%; */
-    /* position: relative;
-    top: 5%; */
-    margin-top: 1.5%;
-    margin-bottom: 3%;
+    padding-top: 1.5%;
+    padding-bottom: 2%;
+    padding-right: 1%;
+    padding-left: 3.5%;
 }
 
-#ecorights {
-    width: 48%;
+#southmockupb {
     display: inline-block;
-    padding: 2% 0% 1% 2%;
-}
-
-#agency {
-    width: 48%;
-    display: inline-block;
-    padding: 2% 2% 1% 0%;
-    float: right;
+    width: 45%;
+    margin: auto;
+    padding-top: 1.5%;
+    padding-bottom: 2%;
+    padding-right: 3.5%;
+    padding-left: 1%;
 }
 
 #phonebook {
@@ -241,27 +247,51 @@ h2 {
     float: right;
 }
 
-#cd {
-    width: 36%;
+#eccolounge {
+    width: 30%;
+    height: 38.25%;
     background-color: #3d3e40;
     display: inline-block;
-    /* margin-right: 3%;
-    margin-left: 1%; */
-    margin-left: 13%;
-    margin-top: 2%;
-    margin-bottom: 1%;
+    float: left;
+    margin: 2% 0% 2% 0%;
+    font-size: 0px;
     color: white;
 }
 
-#cd:hover {
+#eccolounge:hover {
     background-color: #f6861f;
     color: black;
 }
 
-#cdcover {
-    display: block;
+#koozies {
     width: 94%;
+    height: 245.812px;
+    display: block;
     margin: auto;
-    padding-top: 1.5%;
-    padding-bottom: 3%;
+    margin-top: 1%;
+    margin-bottom: 3%;
+}
+
+#magazinecover {
+    width: 30%;
+    height: 38.25%;
+    background-color: #3d3e40;
+    display: inline-block;
+    float: left;
+    margin: 2% 0% 2% 2%;
+    font-size: 0px;
+    color: white;
+}
+
+#magazinecover:hover {
+    background-color: #f6861f;
+    color: black;
+}
+
+#statusgo {
+    width: 94%;
+    display: block;
+    margin: auto;
+    margin-top: 1%;
+    margin-bottom: 3%;
 }

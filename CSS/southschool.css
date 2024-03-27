@@ -1,0 +1,110 @@
+body {
+    font-family: garamond;
+    top: 0px;
+    left: 0px;
+    padding: 0px;
+    margin: 0px;
+    height: 1024px;
+    width: 100%;
+}
+
+header {
+    width: 100%;
+    background-color: white;
+}
+
+
+#bar {
+    background-color: #3d3e40;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+#menu {
+    text-align: center;
+    list-style: none;
+    width: 100%;
+    position: relative;
+    bottom: 4px;
+}
+
+#menu ul {
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    display: inline;
+}
+
+#menu li {
+    display: inline;
+    list-style: none;
+    height: 100%;
+}
+
+#menu a {
+    display: inline;
+    width: 33.333%;
+    float: left;
+    font-size: 24px;
+    text-align: center;
+    margin: 0 auto;
+    height: 100%;
+    text-decoration: none;
+    color: black;
+    background-color: #f6861f;
+}
+
+#menu a:hover {
+    background-color: #ac5a27;
+    color: white;
+}
+
+h1 {
+    width: 100%;
+    display: block;
+    margin-top: 5%;
+    margin-bottom: 1%;
+    text-align: center;
+    font-weight: normal;
+    font-size: 36px;
+}
+
+#wrapper {
+    width: 94%;
+    margin: auto;
+    display: block;
+    margin-top: 2.75%;
+    margin-left: 3%;
+    align-content: center;
+}
+
+#southschoolfrontd {
+    width: 26.25%;
+    display: inline-block;
+    margin: auto;
+    margin-bottom: 2.5%; 
+}
+
+#southschoolfrontm {
+    width: 22%;
+    display: inline-block;
+    margin: auto;
+    margin-left: 1%;
+}
+
+#southschoolbackm {
+    width: 22%;
+    display: inline-block;
+    margin: auto;
+    /* margin-left: 1.5%; */
+}
+
+#southschoolbackd {
+    width: 26.25%;
+    display: inline-block;
+    margin: auto;
+    margin-left: 1%; 
+    margin-bottom: 5.5%; 
+}
