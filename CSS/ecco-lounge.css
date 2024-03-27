@@ -1,5 +1,5 @@
 body {
-    font-family: garamond;
+    font-family: garamond, serif;
     top: 0px;
     left: 0px;
     padding: 0px;
@@ -70,6 +70,7 @@ h1 {
     text-align: center;
     font-weight: normal;
     font-size: 36px;
+    font-family: garamond, serif;
 }
 
 #design {
