@@ -81,28 +81,28 @@ h1 {
 }
 
 #southschoolfrontd {
-    width: 26.25%;
+    width: 26%;
     display: inline-block;
     margin: auto;
     margin-bottom: 2.5%; 
 }
 
 #southschoolfrontm {
-    width: 22%;
+    width: 21.5%;
     display: inline-block;
     margin: auto;
     margin-left: 1%;
 }
 
 #southschoolbackm {
-    width: 22%;
+    width: 21.5%;
     display: inline-block;
     margin: auto;
     /* margin-left: 1.5%; */
 }
 
 #southschoolbackd {
-    width: 26.25%;
+    width: 26%;
     display: inline-block;
     margin: auto;
     margin-left: 1%; 

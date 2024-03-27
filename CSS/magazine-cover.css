@@ -81,23 +81,23 @@ h1 {
 }
 
 #back {
-    width: 25%;
+    width: 24.5%;
     display: inline-block;
     margin: auto;
-    margin-bottom: 1.85%;
+    margin-bottom: 2%;
 }
 
 #mockup {
-    width: 47.3%;
+    width: 47%;
     display: inline-block;
     margin: auto;
     margin-left: 1%;
 }
 
 #front {
-    width: 25%;
+    width: 24.5%;
     display: inline-block;
     margin: auto;
     margin-left: 1%; 
-    margin-bottom: 1.85%;
+    margin-bottom: 2%;
 }

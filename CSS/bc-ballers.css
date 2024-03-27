@@ -81,28 +81,28 @@ h1 {
 }
 
 #flamingballd {
-    width: 26.25%;
+    width: 26%;
     display: inline-block;
     margin: auto;
     margin-bottom: 3.75%; 
 }
 
 #flamingballm {
-    width: 21%;
+    width: 20.5%;
     display: inline-block;
     margin: auto;
     margin-left: 1%;
 }
 
 #ribbonsm {
-    width: 21%;
+    width: 20.5%;
     display: inline-block;
     margin: auto;
     /* margin-left: 1.5%; */
 }
 
 #ribbonsd {
-    width: 28.25%;
+    width: 28%;
     display: inline-block;
     margin: auto;
     margin-left: 1%; 
